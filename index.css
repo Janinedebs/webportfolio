@@ -1,0 +1,179 @@
+#logo {
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 24px;
+
+    color: gray;
+}
+
+#navbarNav {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: beige !important;
+}
+
+#title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+
+    color: rgb(73, 41, 8) !important
+}
+
+#landing {
+    background: 
+
+    linear-gradient(
+
+        rgba(253, 253, 253, 0.61),
+        rgba(130, 127, 123, 0.508)
+
+    ),
+    url("./images/img.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#about {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    background-color: #efc7af;
+}
+
+#tools1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: px;
+    line-height: 24px;
+    color: #4A2C2A;
+}
+
+#project {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    background-color: #efc7af;
+
+}
+#contact {
+    background: #e5dcd6;
+}
+
+#contact-header {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    display: d-flex;
+
+
+    color: #b76e5f;
+}
+
+
+#contact-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    /* or 125% */
+
+
+    color: #b76e5f;
+}
+
+#contact form label {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+
+#contact form input {
+
+    background: #FFFFFF;
+    border: 1px solid #F5E9E2;
+    border-radius: 0 !important;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+
+    color: #a57253;
+
+}
+
+#contact form textarea {
+
+    background: #FFFFFF;
+    border: 1px solid #000000 !important;
+    border-radius: 0 !important;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+
+    color: #010101 !important;
+}
+
+#form-btn {
+    padding: 8px 24px;
+    gap: 8px;
+    background: #b76e5f;
+    border-radius: 2px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+
+    color: #f3ecec;
+}
+
+#social-header {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 25px;
+
+
+    text-align: center;
+    color: #030303;
+}
+
